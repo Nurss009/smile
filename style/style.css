@@ -180,7 +180,6 @@ h1 {
 
 .inner-box:hover .text {
     bottom: 23px;
-
 }
 .bor {
     border: 1px solid rgba(255, 255, 255, 0.50);
@@ -295,8 +294,8 @@ h1 {
 .hero {
     padding-bottom: 60px;
 }
-
 .imgg {
     width: 250px;
     height: 240px;
+
 }
